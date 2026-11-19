@@ -20,8 +20,8 @@ El análisis usa datos sobre edad, sexo, estatura, peso, deporte, temporada y me
 
 ## Instrucciones para ejecutar el código
 1. Clonar el repositorio
-2. Crear un entorno virtual
-3. Descargar los datos y guardarlos en la carpeta "data"
+2. Entrar al colab del script final, ubicado en la carpeta notebooks/
+3. Descargar los datos y guardarlos en una carpeta llamada "Datos" dentro del panel de archivos de colab
 4. Ejecutar el notebook
 
 ## Estructura del proyecto

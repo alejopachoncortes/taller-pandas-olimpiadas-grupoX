@@ -4,4 +4,4 @@ Para ejecutar el proyecto se requieren los siguientes archivos:
 - `athlete_events.csv`
 - `noc_regions.csv`
 
-Estos archivos se deben ubicar en la cartpeta "Data"
+Estos archivos se deben ubicar en una carpeta llamada "Datos" dentro del panel de archivos de colab.
